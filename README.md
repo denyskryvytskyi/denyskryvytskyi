@@ -9,8 +9,9 @@ Hi there, I'm Denis👋
 Programming languages:  
 
 ![C](https://img.shields.io/badge/-C-grey?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C%2B%2B-grey?logo=c%2B%2B) 
+![C++](https://img.shields.io/badge/-C%2B%2B-grey?logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-grey?logo=Java) 
+![C#](https://img.shields.io/badge/-C%23-grey?logo=C-sharp) 
 ![Lua](https://img.shields.io/badge/-Lua-grey?logo=Lua)
 ![Python](https://img.shields.io/badge/-Python-grey?logo=Python)
 
