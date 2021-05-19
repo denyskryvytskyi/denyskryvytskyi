@@ -8,7 +8,7 @@ Hi there, I'm Denis👋
 
 :tv: Also I'm started my [youtube channel](https://www.youtube.com/channel/UCx90zcUS9qnt0JInGaot2IQ) about software engineering
 
-Programming languages:  
+Programming languages
 
 ![C](https://img.shields.io/badge/-C-grey?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C%2B%2B-grey?logo=c%2B%2B)
@@ -17,7 +17,7 @@ Programming languages:
 ![C#](https://img.shields.io/badge/-C%23-grey?logo=C-sharp) 
 ![Python](https://img.shields.io/badge/-Python-grey?logo=Python)
 
-Technologies I worked with:
+Technologies I worked with
 
 ![OpenGL](https://img.shields.io/badge/-OpenGL-grey?logo=OpenGL)
 ![Lumberyard](https://img.shields.io/badge/-Lumberyard-grey?logo=Amazon-Lumberyard)
@@ -26,3 +26,8 @@ Technologies I worked with:
 ![Spring](https://img.shields.io/badge/-Spring-grey?logo=Spring)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?logo=PostgreSQL)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-grey?logo=Microsoft-SQL-Server)
+
+**Contact**  
+LinkedIn: [Denys Kryvytskyi](https://www.linkedin.com/in/denys-kryvytskyi-b3977913a/)  
+Email: [kryvytskyi.denys@gmail.com](kryvytskyi.denys@gmail.com)
+Telegram: [@Kryden](https://t.me/kryden)
