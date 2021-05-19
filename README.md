@@ -29,5 +29,5 @@ Technologies I worked with
 
 **Contact**  
 LinkedIn: [Denys Kryvytskyi](https://www.linkedin.com/in/denys-kryvytskyi-b3977913a/)  
-Email: [kryvytskyi.denys@gmail.com](kryvytskyi.denys@gmail.com)
+Email: [kryvytskyi.denys@gmail.com](kryvytskyi.denys@gmail.com)  
 Telegram: [@Kryden](https://t.me/kryden)
