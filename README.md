@@ -6,16 +6,18 @@ Hi there, I'm Denis👋
 
 :wrench: I’m currently working on game engine (Elven Engine) to learn more about engine architecture.
 
+:tv: Also I'm started my youtube channel about software engineering
+
 Programming languages:  
 
 ![C](https://img.shields.io/badge/-C-grey?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C%2B%2B-grey?logo=c%2B%2B)
+![Lua](https://img.shields.io/badge/-Lua-grey?logo=Lua)
 ![Java](https://img.shields.io/badge/-Java-grey?logo=Java) 
 ![C#](https://img.shields.io/badge/-C%23-grey?logo=C-sharp) 
-![Lua](https://img.shields.io/badge/-Lua-grey?logo=Lua)
 ![Python](https://img.shields.io/badge/-Python-grey?logo=Python)
 
-Technologies:
+Technologies I worked with:
 
 ![OpenGL](https://img.shields.io/badge/-OpenGL-grey?logo=OpenGL)
 ![Lumberyard](https://img.shields.io/badge/-Lumberyard-grey?logo=Amazon-Lumberyard)
@@ -24,19 +26,3 @@ Technologies:
 ![Spring](https://img.shields.io/badge/-Spring-grey?logo=Spring)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?logo=PostgreSQL)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-grey?logo=Microsoft-SQL-Server)
-
-
-<!--
-**kryvytskyidenys/kryvytskyidenys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
