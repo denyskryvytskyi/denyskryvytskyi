@@ -8,7 +8,7 @@ Hi there, I'm Denis👋
 
 :tv: Also I've started my [youtube channel](https://www.youtube.com/channel/UCx90zcUS9qnt0JInGaot2IQ) about software engineering
 
-Programming languages I used to
+Programming languages
 
 ![C](https://img.shields.io/badge/-C-grey?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C%2B%2B-grey?logo=c%2B%2B)
