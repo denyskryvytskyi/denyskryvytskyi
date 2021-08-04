@@ -8,7 +8,7 @@ Hi there, I'm Denis👋
 
 :tv: Also I've started my [youtube channel](https://www.youtube.com/channel/UCx90zcUS9qnt0JInGaot2IQ) about software engineering
 
-Programming languages
+Programming languages I used to
 
 ![C](https://img.shields.io/badge/-C-grey?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C%2B%2B-grey?logo=c%2B%2B)
@@ -25,9 +25,7 @@ Technologies I worked with
 ![SFML](https://img.shields.io/badge/-SFML-grey?logo=SFML)
 ![Spring](https://img.shields.io/badge/-Spring-grey?logo=Spring)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?logo=PostgreSQL)
-![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-grey?logo=Microsoft-SQL-Server)
 
 **Contact**  
 LinkedIn: [Denys Kryvytskyi](https://www.linkedin.com/in/denys-kryvytskyi-b3977913a/)  
 Email: [kryvytskyi.denys@gmail.com](kryvytskyi.denys@gmail.com)  
-Telegram: [@Kryden](https://t.me/kryden)
