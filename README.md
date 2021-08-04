@@ -23,6 +23,7 @@ Technologies I worked with
 ![Lumberyard](https://img.shields.io/badge/-Lumberyard-grey?logo=Amazon-Lumberyard)
 ![Unity](https://img.shields.io/badge/-Unity-grey?logo=Unity)
 ![SFML](https://img.shields.io/badge/-SFML-grey?logo=SFML)
+![Cocos2D](https://img.shields.io/badge/-Cocos2d-grey?logo=Cocos)
 ![Spring](https://img.shields.io/badge/-Spring-grey?logo=Spring)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?logo=PostgreSQL)
 
