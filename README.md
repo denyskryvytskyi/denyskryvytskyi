@@ -1,6 +1,6 @@
 Hi there, I'm Denis👋
 ---
-:computer: Junior Software Engineer at Frag Lab
+:computer: Software Engineer at Frag Lab
 
 :mortar_board: Master’s in Computer Science
 
