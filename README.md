@@ -6,7 +6,7 @@ Hi there, I'm Denis👋
 
 :wrench: I’m currently working on game engine (Elven Engine) to learn more about complex systems architecture
 
-:tv: Also I've started my [youtube channel](https://www.youtube.com/channel/UCx90zcUS9qnt0JInGaot2IQ) about software engineering
+🌎 Also I've started my [youtube channel](https://www.youtube.com/channel/UCx90zcUS9qnt0JInGaot2IQ) and [blog](https://kryvytskyidenys.github.io/) about gamedev and software engineering
 
 **Contact**  
 LinkedIn: [Denys Kryvytskyi](https://www.linkedin.com/in/denys-kryvytskyi-b3977913a/)  
