@@ -1,4 +1,4 @@
-Hi there, I'm Denis👋
+Hi there, I'm Denys👋
 ---
 :computer: Software Engineer at Frag Lab
 
