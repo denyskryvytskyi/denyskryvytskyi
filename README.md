@@ -4,6 +4,6 @@ Hi there, I'm Denys👋
 
 :mortar_board: Master’s in Computer Science
 
-:wrench: I’m currently working on game engine (Elven Engine) to learn more about complex systems architecture
+:wrench: I’m currently working on game engine [Elven Engine](https://github.com/denyskryvytskyi/ElvenEngine) to learn more about complex systems architecture
 
 🌎 Also I've started personal [blog](https://kryvytskyidenys.github.io/) and [youtube channel](https://www.youtube.com/channel/UCx90zcUS9qnt0JInGaot2IQ) about gamedev and software engineering 
