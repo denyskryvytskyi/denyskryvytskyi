@@ -1,6 +1,6 @@
 Hi there, I'm Denys👋
 ---
-:computer: Software Engineer at Frag Lab working on AAA FPS using Lumberyard game engine.
+:computer: Software Engineer at Frag Lab working on AAA FPS game using Lumberyard game engine.
 
 :mortar_board: Master’s in Computer Science
 
