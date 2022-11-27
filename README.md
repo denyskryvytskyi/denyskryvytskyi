@@ -1,6 +1,6 @@
 Hi there, I'm Denys👋
 ---
-:computer: Software Engineer at Frag Lab working on FPS game using Lumberyard game engine.
+:computer: Software Engineer at Frag Lab working on [Shatterline](https://store.steampowered.com/app/2087030/Shatterline/) game using Lumberyard game engine.
 
 :mortar_board: Master’s in Computer Science
 
